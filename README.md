@@ -37,3 +37,12 @@ List each employee in the Sales department, including their employee number, las
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name)
+
+## References
+Referenced many solved module examples from bootcamp materials.
+
+Obtained help from bootcamp peer Greg Schreiter to validate ERD was correct.
+
+Referenced https://en.wikipedia.org/wiki/Composite_key to research composite keys.
+
+Utilized Xpert Learning Assistant https://bootcampspot.instructure.com/courses/4981/external_tools/313 to help format foreign key syntax.
