@@ -8,7 +8,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 ## Data Modeling
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. I used QuickDBD for the ERD. 
 
 ## Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
@@ -46,3 +46,5 @@ Obtained help from bootcamp peer Greg Schreiter to validate ERD was correct.
 Referenced https://en.wikipedia.org/wiki/Composite_key to research composite keys.
 
 Utilized Xpert Learning Assistant https://bootcampspot.instructure.com/courses/4981/external_tools/313 to help format foreign key syntax.
+
+Used QuickDBD to visualize my ERD.
